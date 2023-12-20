@@ -1,0 +1,3 @@
+@echo off
+title Downloading...
+python -m pip install -r requirements.txt
